@@ -1,0 +1,33 @@
+{
+  "recentWikis": [
+    {
+      "id": "1",
+      "name": "Brand Guideline",
+      "image": ""
+    },
+    {
+      "id": "2",
+      "name": "Project Grail Sprint Plan",
+      "image": ""
+    },
+    {
+      "id": "3",
+      "name": "Personal Wiki",
+      "image": ""
+    }
+  ],
+  "channelsOrGroup": [
+    {
+      "id": "1",
+      "name": "Tixio 2.0"
+    },
+    {
+      "id": "2",
+      "name": "Project Grail"
+    },
+    {
+      "id": "3",
+      "name": "Fun Facts"
+    }
+  ]
+}
